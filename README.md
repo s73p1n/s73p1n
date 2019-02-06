@@ -1,2 +1,3 @@
 # s73p1n
-My first GitHub Pages where I plan to write everything concerning my research and solutions to bugs that I've met during Jeopardy CTF.
+
+The main idea of my GitHub Pages is to share problems I've met and how I've solved them in orther to help the .
